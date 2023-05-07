@@ -11,6 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirebaseKotlin"
         tools:targetApi="31">
+
         <activity
             android:name=".activities.EmployeeDetailsActivity"
             android:exported="false" />
