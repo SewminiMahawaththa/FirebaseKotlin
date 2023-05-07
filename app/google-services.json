@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273484572086",
+    "project_id": "fir-kotlin-b0519",
+    "storage_bucket": "fir-kotlin-b0519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273484572086:android:79f01b699b9b9ea790cd17",
+        "android_client_info": {
+          "package_name": "com.example.firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273484572086-0cp790s10teqbjrjv8nag91na0gt8655.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0LI_Bdqp6_eljko1ImF0QINfkpfy95s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273484572086-0cp790s10teqbjrjv8nag91na0gt8655.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
